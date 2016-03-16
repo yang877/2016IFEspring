@@ -6,7 +6,7 @@ html {
 body {
   margin: 0;
   padding: 0;
-  font-family: Tahoma,Arial,”Helvetica Neue“,”Hiragino Sans GB”,Simsun,sans-self;
+  font-family: Tahoma,Arial,"Helvetica Neue","Hiragino Sans GB",Simsun,sans-self;
   background: #dfdfdf;
 }
 
@@ -35,7 +35,6 @@ body {
 
 #nav ul {
   position: relative;
-  top: center;
   margin: 0;
 }
 
@@ -108,7 +107,7 @@ p {
 
 .image { text-indent: 0; }
 
-.image img { margin bottom: 0; }
+#secImg { margin-bottom: 0 }
 
 .list {
   margin-top: 0;
